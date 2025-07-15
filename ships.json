@@ -1,0 +1,5 @@
+
+[
+  {"name": "USS Enterprise", "faction": "Federation", "class": "Explorer"},
+  {"name": "IKS Bortas", "faction": "Klingon", "class": "Battlecruiser"}
+]

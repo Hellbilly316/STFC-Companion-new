@@ -1,0 +1,5 @@
+
+body { background: #0b0c1a; color: white; font-family: sans-serif; padding: 2rem; }
+a { color: #4ea1ff; font-weight: bold; display: block; margin: 0.5rem 0; }
+h1 { color: #00d4ff; }
+.container { max-width: 600px; margin: auto; }
